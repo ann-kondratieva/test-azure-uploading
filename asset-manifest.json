@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/test-azure-uploading/static/js/main.fbc11224.chunk.js",
+    "main.js.map": "/test-azure-uploading/static/js/main.fbc11224.chunk.js.map",
+    "runtime-main.js": "/test-azure-uploading/static/js/runtime-main.6c7d7fc9.js",
+    "runtime-main.js.map": "/test-azure-uploading/static/js/runtime-main.6c7d7fc9.js.map",
+    "static/js/2.76a944d8.chunk.js": "/test-azure-uploading/static/js/2.76a944d8.chunk.js",
+    "static/js/2.76a944d8.chunk.js.map": "/test-azure-uploading/static/js/2.76a944d8.chunk.js.map",
+    "index.html": "/test-azure-uploading/index.html",
+    "precache-manifest.8db52cbe38654c081c131a9974f0a253.js": "/test-azure-uploading/precache-manifest.8db52cbe38654c081c131a9974f0a253.js",
+    "service-worker.js": "/test-azure-uploading/service-worker.js",
+    "static/js/2.76a944d8.chunk.js.LICENSE.txt": "/test-azure-uploading/static/js/2.76a944d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c7d7fc9.js",
+    "static/js/2.76a944d8.chunk.js",
+    "static/js/main.fbc11224.chunk.js"
+  ]
+}
