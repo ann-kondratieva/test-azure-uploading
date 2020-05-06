@@ -1,0 +1,3 @@
+const DEVELOPMENT_CONFIG = {};
+
+export default DEVELOPMENT_CONFIG;
